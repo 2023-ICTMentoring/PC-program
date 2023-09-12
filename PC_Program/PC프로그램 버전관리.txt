@@ -1,0 +1,7 @@
+PC_PROGRAM_V1_TEST:OX게임 및 초성게임 GUI제작
+
+
+PC_PROGRAM_V2_Prototype:시리얼통신추가하여 마스터보드의 RF를 이용가능
+
+PC_PROGRAM_V3_Finish:포트번호 자동으로 선택 및 리뉴얼된 게임들 제작 및 출석기능 추가
+
